@@ -4,7 +4,7 @@
 
 ## Contoh Project
 
-Kamu bisa melihat contoh project URL Shortener Microservice dari freeCodeCamp di https://request-header-parser-microservice.freecodecamp.rocks/
+Kamu bisa melihat contoh project Request Header Parser Microservice dari freeCodeCamp di https://request-header-parser-microservice.freecodecamp.rocks/
 
 ## Persiapan
 
