@@ -14,7 +14,7 @@
 
 ## Testing
 
-Kamu bisa melakukan testing langsung di [Timestamp Microservice Testing](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice).  
+Kamu bisa melakukan testing langsung di [Request Header Parser Microservice Testing](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice).  
 
 
 ### Selamat ngoding! 💻 🧠
