@@ -1,6 +1,6 @@
 # [2/5] Request Header Parser Microservice
 
-**SELAMAT** ya kamu sudah berhasil menyelesaikan project pertama [Timestamp Microservice](https://github.com/dipintoo/freeCodeCamp_Timestamp). Sekarang kita lanjut ke project kedua dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun sebuah API Node.js yang akan mengembalikan respon JSON yang berisi informasi alamat IP, bahasa, dan software yang kamu gunakan di perangkat kamu.
+**SELAMAT** ya kamu sudah berhasil menyelesaikan project pertama [Timestamp Microservice](https://github.com/dipintoo/freeCodeCamp_Timestamp). Sekarang kita lanjut ke project kedua dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun sebuah API Node.js yang akan mengembalikan respon JSON yang berisi informasi alamat IP, bahasa, dan software yang digunakan di perangkat kamu.
 
 ## Contoh Project
 
