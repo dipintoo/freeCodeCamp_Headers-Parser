@@ -1,6 +1,6 @@
 # [2/5] Request Header Parser Microservice
 
-**Selamat** ya kamu sudah berhasil menyelesaikan project pertama [Timestamp Microservice](https://github.com/dipintoo/freeCodeCamp_Timestamp). Sekarang kita lanjut ke project kedua dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript yang secara fungsional mirip dengan contoh project berikut ini: https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice.
+**Selamat** ya kamu sudah berhasil menyelesaikan project pertama [Timestamp Microservice](https://github.com/dipintoo/freeCodeCamp_Timestamp). Sekarang kita lanjut ke project kedua dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript yang secara fungsional mirip dengan contoh project berikut ini: https://request-header-parser-microservice.freecodecamp.rocks/
 
 ## Persiapan
 
